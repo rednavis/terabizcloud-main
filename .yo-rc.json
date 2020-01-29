@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.terabizcloud.main"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "microservice",
+    "baseName": "main",
+    "packageName": "com.terabizcloud.main",
+    "packageFolder": "com/terabizcloud/main",
+    "serverPort": "8093",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDQ5NTBhNGRjN2ZhZDFlNmQ1MzE3ZWEzMDFlZjEwY2I5NTNmODQzNjQ1Y2RmN2M3ZTlmMzdlYjU1NDRmZWRhZDU3YTI0NjAxYzM0NmM4NDNhNDAxN2JkOTZjZGVkMmY5NDY1MWFiMTZhNWY1YWIzNTE5NDYzM2VmM2YxZjdiYjM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1580309148230,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
